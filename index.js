@@ -10,7 +10,6 @@ function compTurn(){
         return "scissor";
     }
 }
-
 const score={
     Win:0,
     Lose:0,
@@ -49,6 +48,7 @@ function getResult(player2){
     document.getElementById("score").innerHTML=`
     <p>Win: ${score.Win} ${"|"} Lose: ${score.Lose} ${"|"} Tie: ${score.Tie}</p>`;
 }
+
 
 
 
