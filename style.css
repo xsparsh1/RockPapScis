@@ -22,7 +22,6 @@ h1{
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
-
 .con{
     display:flex;
     justify-content: center;
@@ -63,4 +62,5 @@ h1{
   from { opacity: 0.5; transform: scale(0.8); }
   to { opacity: 1; transform: scale(1); }
 }
+
 
