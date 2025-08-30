@@ -26,3 +26,5 @@ This is a **Rock Paper Scissors** game where you play against the computer! Buil
 - Real-time result and score updates
 - Random computer move generation
 - Visual feedback for each round
+
+Thanks!
